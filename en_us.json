@@ -1,4 +1,4 @@
-callback({
+{
     "skavaStore_header_shop" : "SHOP ALL",
     "skavaStore_searchBoxTitle" : "Search this site",
     "skavaStore_searchPlaceholder" : "Search this site...",
@@ -933,4 +933,4 @@ callback({
     "skavaStore_writeReviewPopup_emailErrorTxt" : "Please enter a valid email address",
     "skavaStore_writeReviewPopup_passwordErrorTxt" : "Password must contain atleast 6 characters"
     
-});
+}
